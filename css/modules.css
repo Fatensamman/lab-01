@@ -1,0 +1,77 @@
+
+div {
+    box-sizing: border-box;
+    border: 1px solid grey;
+}
+
+
+
+@media screen and (min-width:975px){
+    #a{background-color: lightcyan;}
+    #b{background-color: lightgoldenrodyellow;}
+    #c{background-color: lightgreen;}
+    #d{background-color: lightsalmon;}
+    #e{background-color: lightyellow;}
+    #f{background-color: linen;}
+    #g{background-color: paleturquoise;}
+    #h{background-color: peachpuff;}
+    #i{background-color: pink;}
+
+}
+@media screen and (min-width:1010px){
+    #a{background-color: rgb(44, 155, 155);}
+    #b{background-color: rgb(247, 247, 170);}
+    #c{background-color: rgb(157, 219, 157);}
+    #d{background-color: rgb(253, 173, 142);}
+    #e{background-color: rgb(245, 245, 120);}
+    #f{background-color: rgb(247, 175, 104);}
+    #g{background-color: rgb(109, 211, 211);}
+    #h{background-color: rgb(146, 95, 50);}
+    #i{background-color: rgb(245, 127, 146);}
+}
+@media screen and (min-width:1100px){
+    #a{background-color: rgb(20, 156, 156);}
+    #b{background-color: rgb(255, 255, 17);}
+    #c{background-color: rgb(51, 151, 51);}
+    #d{background-color: rgb(163, 67, 26);}
+    #e{background-color: rgb(230, 230, 171);}
+    #f{background-color: rgb(189, 106, 23);}
+    #g{background-color: rgb(54, 212, 212);}
+    #h{background-color: rgb(241, 201, 165);}
+    #i{background-color: rgb(224, 51, 80);}
+}
+
+@media screen and (min-width:500px) and (max-width:767px){
+    #a{background-color: lightcyan;}
+    #b{background-color: lightgoldenrodyellow;}
+    #c{background-color: lightgreen;}
+    #d{background-color: lightsalmon;}
+    #e{background-color: lightyellow;}
+    #f{background-color: linen;}
+    #g{background-color: paleturquoise;}
+    #h{background-color: peachpuff;}
+    #i{background-color: pink;}
+
+}
+@media screen and (min-width:550px) and (max-width:767px){
+    #a{background-color: rgb(44, 155, 155);}
+    #b{background-color: rgb(247, 247, 170);}
+    #c{background-color: rgb(157, 219, 157);}
+    #d{background-color: rgb(253, 173, 142);}
+    #e{background-color: rgb(245, 245, 120);}
+    #f{background-color: rgb(247, 175, 104);}
+    #g{background-color: rgb(109, 211, 211);}
+    #h{background-color: rgb(146, 95, 50);}
+    #i{background-color: rgb(245, 127, 146);}
+}
+@media screen and (min-width:600px) and (max-width:767px){
+    #a{background-color: rgb(20, 156, 156);}
+    #b{background-color: rgb(255, 255, 17);}
+    #c{background-color: rgb(51, 151, 51);}
+    #d{background-color: rgb(163, 67, 26);}
+    #e{background-color: rgb(230, 230, 171);}
+    #f{background-color: rgb(189, 106, 23);}
+    #g{background-color: rgb(54, 212, 212);}
+    #h{background-color: rgb(241, 201, 165);}
+    #i{background-color: rgb(224, 51, 80);}
+}
